@@ -1,1 +1,21 @@
-
+.body{
+			padding:0;
+			margin:0;
+			background: url(https://images.unsplash.com/photo-1533907650686-70576141c030?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80) no-repeat;
+  background-size:cover;
+		}
+.h1{	text-align: center;
+			color:black;
+      text-transform:uppercase;
+		}
+.login-box{
+  width:20px;
+  margin:400px;
+  padding:50px;
+  
+}
+.form-group{
+  padding 10px;
+  margin:10px;
+  border-radius:20%;
+}
